@@ -35,7 +35,7 @@ export default function Navbar() {
                   : "text-gray-600 hover:text-amber-600"
               )}
             >
-              Developers
+              Developer
             </Link>
           </div>
         </div>
@@ -43,3 +43,4 @@ export default function Navbar() {
     </nav>
   );
 }
+
